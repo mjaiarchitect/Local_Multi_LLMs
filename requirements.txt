@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain_community
+langchain_ollama
+langchain_core
+pydantic
+graphviz
+matplotlib
+networkx
+gradio
+duckduckgo-search
+pillow
