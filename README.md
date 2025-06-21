@@ -47,8 +47,8 @@ Go grab a coffee ☕ while they download. (Or just stare at the progress bar, we
 1. **Clone this repo from GitHub:**
 
    ```sh
-   git clone https://github.com/<your-github-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/mjaiarchitect/Local_Multi_LLMs.git
+   cd Local_Multi_LLMs
    ```
 
 2. **Install Python requirements:**
