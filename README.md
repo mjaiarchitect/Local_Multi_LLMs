@@ -1,9 +1,36 @@
-# Local_Multi_LLMs
-
 # 🦙 Local Multi-LLMs Research Assistant & PDF RAG Demo
 
 Welcome, fellow explorer of AI frontiers! 🚀  
 This is your all-in-one **Research/Maths Assistant** and **PDF RAG** demo, powered by local LLMs (no OpenAI API key needed, your secrets are safe!).
+
+---
+
+## 🛠️ Step 0: Install Python & Git (If You Haven't Already)
+
+Before you start, make sure you have **Python** (version 3.9 or newer) and **Git** installed on your computer.
+
+### 🐍 Install Python
+
+1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Download the latest Python 3.x installer for your OS.
+3. **IMPORTANT:** During installation, check the box that says **"Add Python to PATH"**.
+4. Finish the installation.
+
+To check if Python is installed, open a terminal (Command Prompt/PowerShell on Windows, Terminal on Mac/Linux) and run:
+```sh
+python --version
+```
+You should see something like `Python 3.10.12`.
+
+### 🐙 Install Git
+
+1. Go to [https://git-scm.com/downloads](https://git-scm.com/downloads)
+2. Download and install Git for your OS (just click "Next" a bunch of times).
+3. To check if Git is installed, run:
+```sh
+git --version
+```
+You should see something like `git version 2.42.0`.
 
 ---
 
@@ -110,4 +137,4 @@ Go forth and ask questions, solve math, and interrogate your PDFs like a boss!
 
 ---
 
-*Made with ❤️, Python, and a dash of AI
+*Made with ❤️, Python, and a dash of AI magic.*
