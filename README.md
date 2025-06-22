@@ -5,20 +5,6 @@ This is your all-in-one **Research/Maths Assistant** and **PDF RAG** demo, power
 
 ---
 
-## 💻 Minimum Hardware Requirements
-
-To run all three Ollama models (**llava:7b**, **qwen2.5vl:latest**, and **nomic-embed-text**) smoothly on your local machine, you’ll want at least:
-
-- **CPU:** Modern quad-core (Intel i5/Ryzen 5 or better recommended)
-- **RAM:** **16 GB** minimum (more is better, especially for multitasking)
-- **Disk Space:** At least **20 GB** free (the models themselves take up several GB each)
-- **GPU:** Not required, but if you have one, Ollama can use it for faster inference (NVIDIA with CUDA support recommended)
-- **OS:** Windows 10/11, macOS, or Linux
-
-> ⚠️ **Note:** You can run with 8 GB RAM, but you may need to close other apps and only load one model at a time for best results. For a smooth experience with all three models loaded, 16 GB+ RAM is strongly recommended.
-
----
-
 ## 🛠️ Step 0: Install Python & Git (If You Haven't Already)
 
 Before you start, make sure you have **Python** (version 3.9 or newer) and **Git** installed on your computer.
@@ -121,7 +107,19 @@ Go grab a coffee ☕ while they download. (Or just stare at the progress bar, we
 
 ---
 
+## 💻 Minimum Hardware Requirements
 
+To run all three Ollama models (**llava:7b**, **qwen2.5vl:latest**, and **nomic-embed-text**) smoothly on your local machine, you’ll want at least:
+
+- **CPU:** Modern quad-core (Intel i5/Ryzen 5 or better recommended)
+- **RAM:** **16 GB** minimum (more is better, especially for multitasking)
+- **Disk Space:** At least **20 GB** free (the models themselves take up several GB each)
+- **GPU:** Not required, but if you have one, Ollama can use it for faster inference (NVIDIA with CUDA support recommended)
+- **OS:** Windows 10/11, macOS, or Linux
+
+> ⚠️ **Note:** You can run with 8 GB RAM, but you may need to close other apps and only load one model at a time for best results. For a smooth experience with all three models loaded, 16 GB+ RAM is strongly recommended.
+
+---
 
 ## 🛠️ Troubleshooting
 
@@ -153,4 +151,4 @@ Go forth and ask questions, solve math, and interrogate your PDFs like a boss!
 
 ---
 
-*Made with ❤️, Python, and a dash of AI magic.*
+*Made with ❤️, Python, and a dash of AI magic. Your loving ❤️ MJ!*
